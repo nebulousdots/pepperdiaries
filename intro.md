@@ -25,7 +25,7 @@ And so my hot pepper adventure begins...
 | Heating Pad | $31 |
 | Masterblend | $31|
 | LED grow light| $25 |
-| Total | $87 | 
+| 10 2" net pots| $2 |
 
 Stuff I already had: 
 - Generic red solo cups
