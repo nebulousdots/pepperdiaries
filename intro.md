@@ -16,20 +16,3 @@ It said:
 > Product of Holland
 
 And so my hot pepper adventure begins...
-
-
-## Costs 
-
-|Item|Cost (incl tax)|
-|-|-|
-| Heating Pad | $31 |
-| Masterblend | $31|
-| LED grow light| $25 |
-| 10 2" net pots| $2 |
-
-Stuff I already had: 
-- Generic red solo cups
-- Plastic spoons
-- Dirt
-
-
