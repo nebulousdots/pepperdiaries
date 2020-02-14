@@ -21,3 +21,4 @@ And so my hot pepper adventure begins...
 ## Notes
 - [Costs](costs.md) 
 - [Grow log](log.md)
+- [WebMd for Peppers](symptoms.md)
