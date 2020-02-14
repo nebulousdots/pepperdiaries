@@ -19,5 +19,5 @@ It said:
 And so my hot pepper adventure begins...
 
 ## Notes
-[Costs](costs.md)
-[Grow log](log.md)
+- [Costs](costs.md) 
+- [Grow log](log.md)
