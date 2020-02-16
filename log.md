@@ -1,3 +1,8 @@
+---
+title: Log
+modified: 2020-02-15T20:38:20-08:00
+---
+
 ## Log
 
 ### Group 1 Seeds
