@@ -1,3 +1,7 @@
+---
+modified: 2020-02-15T20:33:04-08:00
+---
+
 ## Costs 
 
 |Item|Cost (appx incl tax)| |
@@ -12,12 +16,11 @@
 | Baskets | $14 | [Amazon](https://www.amazon.com/gp/product/B07Q7FHL6V/ref=ox_sc_saved_title_1?smid=A1XNIEJDWAWUXN&psc=1)|
 | Rockwool | $10 | [Amazon](https://www.amazon.com/gp/product/B07T8CD7MF/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)|
 | PH Control Kit | $20 | [Amazon](https://www.amazon.com/gp/product/B000BNKWZY/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1) |
-| Gram scale | $11 | [Amazon](https://www.amazon.com/gp/product/B07SJTXGN7/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) |
+| Gram scale | $11 | [Amazon](https://www.amazon.com/gp/product/B07SJTXGN7/ref=ppx_yo_dt_b_ain_title_o00_s00?ie=UTF8&psc=1) |
+Grow tent.
 | Total | $248 | |
 
 Stuff I already had: 
 - Generic red solo cups
 - Plastic spoons
 - Dirt
-
-
