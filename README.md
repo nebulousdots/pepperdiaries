@@ -1,3 +1,7 @@
+---
+title: Intro
+modified: 2020-02-15T20:38:16-08:00
+---
 
 ## How it all started
 I jumped in the car as my husband pulled up to my building - he was picking me up from work as usual. He said he had just ran to Uwajimaya, a Japanese grocery store, and I was curious what dinner would be.
