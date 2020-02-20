@@ -18,10 +18,11 @@ title: Costs
 | Grow tent, 36x18x30 | $58 | Amazon |
 | Portable air pump |$6 | AliExpress|
 | pH meter | $20| Amazon |
+| 27 liter container | $6 | Home Depot|
 | Aerogarden Sprout CFL (used) | $10 | Craigslist |
 | Aerogarden Harvest 360 | $72 | [Kohl's](https://www.kohls.com/product/prd-3435219/aerogardenharvestwith-gourmet-herb-seed-pod-kit.jsp)|
 | 3 plants <ul><li>7 Pot Lava Yellow</li><li>Apocalypse Chocolate</li><li>Peach Ghost</li></ul>| $12 | Craigslist |
-| Total | $332 | |
+| Total | $338 | |
 
 Stuff I already had: 
 - Generic red solo cups
