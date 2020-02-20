@@ -1,5 +1,5 @@
 ---
-modified: 2020-02-15T20:36:34-08:00
+modified: 2020-02-19T22:13:14-08:00
 title: Costs
 ---
 
@@ -20,7 +20,8 @@ title: Costs
 | Gram scale | $11 | [Amazon](https://www.amazon.com/gp/product/B07SJTXGN7/ref=ppx_yo_dt_b_ain_title_o00_s00?ie=UTF8&psc=1) |
 | Grow tent, 36*18*30 |   $58 | |
 | Portable air pump |$6 ||
-| Total | $312 | |
+|  pH meter | $20| |
+| Total | $332 | |
 
 Stuff I already had: 
 - Generic red solo cups
