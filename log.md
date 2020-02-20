@@ -23,11 +23,12 @@ modified: 2020-02-15T20:38:20-08:00
 |2019-02-16| The Aerogarden pod was put in too much water and actually got moldy. This was tossed :( Transplanted the seeds over to rockwool cube|
 
 ### Purchased Seedlings
+Purchased 3 seedlings that are about 45-60 days old: apocalypse chocolate, peach chost, 7 pot lava yellow
 
 | Date | |
 |-|-|
 | 2019-02-12 | Purchased 3 seedlings|
 | 2019-02-12 | Transplanted chocolypse into the Aerogarden Sprout|
 | 2019-02-13 | Transplanted peach ghost, 7 pot lava yellow into Kratky |
-| 2019-02-16 | Kratky ones look dubious as does the chocolypse. Thinking pH is off |
+| 2019-02-16 | Kratky ones look dubious as does the chocolypse. Thinking pH is off. It doesn't appear to be root rot though there is reddish/brown speckling the roots of the plants. The color is off on the plant - there seem to be burn mark like things all around it. One of the Kratky seedlings is seriously wilting |
 | 2019-02-19 | Got pH kit towards the evening and put things into more pH balanced solutions. Discovered after googling that temperature affects pH so we after I put the nutes in the cups (which is heated at 67 degrees), the pH might change|
