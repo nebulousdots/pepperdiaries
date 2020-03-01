@@ -1,5 +1,5 @@
 ---
-modified: 2020-02-29T16:41:25-08:00
+modified: 2020-02-29T16:41:48-08:00
 title: Costs
 ---
 
@@ -23,7 +23,7 @@ title: Costs
 | Aerogarden Sprout CFL (used) | $10 | Craigslist |
 | Aerogarden Harvest 360 | $72 | [Kohl's](https://www.kohls.com/product/prd-3435219/aerogardenharvestwith-gourmet-herb-seed-pod-kit.jsp)|
 | 3 plants <ul><li>7 Pot Lava Yellow</li><li>Apocalypse Chocolate</li><li>Peach Ghost</li></ul>| $12 | Craigslist |
-| Total | $338 | |
+| Total | $383| |
 
 Stuff I already had: 
 - Generic red solo cups
