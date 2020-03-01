@@ -1,5 +1,5 @@
 ---
-modified: 2020-02-19T22:13:14-08:00
+modified: 2020-02-29T16:41:25-08:00
 title: Costs
 ---
 
@@ -19,6 +19,7 @@ title: Costs
 | Portable air pump |$6 | AliExpress|
 | pH meter | $20| Amazon |
 | 27 liter container | $6 | Home Depot|
+| Air pump & hole saw| $45|Amazon|
 | Aerogarden Sprout CFL (used) | $10 | Craigslist |
 | Aerogarden Harvest 360 | $72 | [Kohl's](https://www.kohls.com/product/prd-3435219/aerogardenharvestwith-gourmet-herb-seed-pod-kit.jsp)|
 | 3 plants <ul><li>7 Pot Lava Yellow</li><li>Apocalypse Chocolate</li><li>Peach Ghost</li></ul>| $12 | Craigslist |
