@@ -1,5 +1,5 @@
 ---
-modified: 2020-03-07T00:15:19-08:00
+modified: 2020-03-07T00:15:42-08:00
 title: Costs
 ---
 
@@ -25,7 +25,7 @@ title: Costs
 | 3 plants <ul><li>7 Pot Lava Yellow</li><li>Apocalypse Chocolate</li><li>Peach Ghost</li></ul>| $12 | Craigslist |
 | Air pump splitter kit | $11||
 | Fungicide|$8||
-| Total | $383| |
+| Total | $405| |
 
 Stuff I already had: 
 - Generic red solo cups
